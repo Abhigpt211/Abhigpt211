@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhigpt211
 - 👀 I’m interested in ...Web development 
 - 🌱 I’m currently learning ...Internship/Job
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Front end projects 
 - 📫 How to reach me ...
 
 <!---
